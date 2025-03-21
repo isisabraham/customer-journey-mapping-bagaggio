@@ -1,7 +1,7 @@
 # customer-journey
 # Consumer Journey at Bagaggio
 
-Welcome to my **Consumer Journey** project! This is a comprehensive view of the consumer journey I helped implement at **Bagaggio**. The journey includes detailed insights into customer interactions, pain points, and how we optimized their experience.
+Welcome to my **Consumer Journey** project! This is a comprehensive view of the consumer journey I implement at **Bagaggio**. The journey includes detailed insights into customer interactions, pain points, and how we optimized their experience.
 
 You can view the full journey map on the **Miro** board linked below:
 
